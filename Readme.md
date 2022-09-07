@@ -1,3 +1,4 @@
 # Muhammad Muhammad Inuwa
 
-![image](./img//profile.jpg)
+
+<img src="./img/profile.jpg" alt="profile" width='300' />
